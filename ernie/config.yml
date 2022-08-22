@@ -1,0 +1,4 @@
+[{module, ninja},
+ {type, external},
+ {command, "ruby ./ernie.rb"},
+ {count, 2}].
